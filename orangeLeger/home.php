@@ -1,1 +1,0 @@
-<h2>Bienvenue dans l'intranet</h2>
